@@ -1,0 +1,9 @@
+Task 3 Notes
+
+1. When the relationship direction changed from Single to Both, the customer table changed from showing all four customers to showing only Ali Khan when Laptop was selected.
+
+2. The customer with no orders is Hina.
+
+3. The product that was never sold is Monitor.
+
+4. Computers Sales shows 900 on the Accessories row because the Large Order Sales measure calculates sales for large orders, and the large order has a Line Total of 900. If this value appears on the Accessories row, check the measure's filter context and the relationships between Sales and Products.
